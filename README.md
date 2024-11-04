@@ -43,4 +43,4 @@ UnitPrice: The price per unit of the product.
 Total Sales: The total sales value for the order, calculated as Quantity * UnitPrice
 
 ![Screenshot 2024-10-18 060947](https://github.com/FeyiiTheAnalyst/LITA_CAPSTONE_PROJECT/blob/main/REVENUE%20BY%20PRODUCT.png)
-![](./Region by cancellation.png]
+![](./Region by cancellation.png)
