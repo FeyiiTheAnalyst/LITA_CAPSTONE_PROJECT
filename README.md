@@ -47,5 +47,4 @@ The analysis produced several valuable insights, such as:
 - Recognition of trends in sales volumes across months.
 - Discovery of underperforming products with no sales in recent quarters, informing potential clearance or promotional actions.
 
-![Screenshot 2024-10-18 060947](https://github.com/FeyiiTheAnalyst/LITA_CAPSTONE_PROJECT/blob/main/REVENUE%20BY%20PRODUCT.png)
-![](https://github.com/FeyiiTheAnalyst/LITA_CAPSTONE_PROJECT/blob/main/Region%20by%20cancellation.png)
+![](https://github.com/FeyiiTheAnalyst/LITA_CAPSTONE_PROJECT/blob/main/LITA/SALES%20DASHBOARD%20LITA.png)
