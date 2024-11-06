@@ -114,7 +114,7 @@ The analysis produced several valuable insights, including:
 - Recognition of customer segments with long-term subscriptions, supporting targeted retention strategies.
 - Insight into revenue contributions by subscription type, helping guide marketing and customer engagement efforts.
 
-  ![]
+  ![](https://github.com/FeyiiTheAnalyst/LITA_CAPSTONE_PROJECT/blob/main/LITA/CUSTOMER%20DASHBOARD.png)
 
 
 
